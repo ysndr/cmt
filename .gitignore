@@ -1,7 +1,7 @@
 .stack-work/
 .stack-build/
 dist-newstyle/
-cmt.cabal
 .cmt.bkp
 *~
 releases/
+result
