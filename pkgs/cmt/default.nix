@@ -2,7 +2,7 @@
 with haskellPackages;
   mkDerivation rec {
     pname = "cmt";
-    version = "0.7.1.0";
+    version = "0.7.1.1";
     src = ../../.;
     isExecutable = true;
     libraryHaskellDepends = [
